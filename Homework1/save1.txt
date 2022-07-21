@@ -1,0 +1,104 @@
+| TOTAL     |    BOOK1    |    BOOK2    |  WORD      |   
+| ORDER     |    ORDER    |    ORDER    |  ORDER     |   
+| FREQUENCY |  FREQUENCY  |  FREQUENCY  |  FREQUENCY |   
+------------------------------------------------------
+    112     |     56      |     56      |project gutenberg-tm
+     62     |     31      |     31      |project gutenberg
+     36     |     18      |     18      |gutenberg-tm electronic
+     32     |      8      |     24      | long time  
+     32     |     16      |     16      |electronic works
+     26     |     13      |     13      |gutenberg literary
+     26     |     13      |     13      |literary archive
+     26     |     13      |     13      |archive foundation
+     22     |     11      |     11      |electronic work
+     21     |     16      |      5      | young man  
+     18     |      2      |     16      | good night 
+     18     |      9      |      9      |terms agreement
+     16     |      2      |     14      | men women  
+     16     |      8      |      8      |gutenberg-tm license
+     14     |     10      |      4      |   ha ha    
+     12     |      9      |      3      | good time  
+     12     |      6      |      6      |gutenberg-tm work
+     11     |      6      |      5      | night day  
+     11     |      8      |      3      |poor fellow 
+     11     |      5      |      6      | god bless  
+     11     |      5      |      6      | wife child 
+     11     |      8      |      3      |  open air  
+     11     |      4      |      7      | work work  
+     10     |      5      |      5      |terms project
+     10     |      8      |      2      | good deal  
+     10     |      5      |      5      | time time  
+     10     |      7      |      3      | face face  
+     10     |      5      |      5      |u.s. copyright
+     10     |      5      |      5      |copyright law
+     10     |      5      |      5      |gutenberg-tm works
+     9      |      7      |      2      | day night  
+     9      |      5      |      4      | hand hand  
+     9      |      8      |      1      | south sea  
+     9      |      3      |      6      | chapter ii 
+     9      |      3      |      6      |chapter iii 
+     9      |      5      |      4      |voice heard 
+     9      |      5      |      4      |  man man   
+     8      |      5      |      3      | life death 
+     8      |      7      |      1      | point view 
+     8      |      4      |      4      | open door  
+     8      |      1      |      7      |human creature
+     8      |      7      |      1      |what’s matter
+     8      |      2      |      6      | chapter iv 
+     8      |      3      |      5      | left hand  
+     8      |      1      |      7      |eighteen years
+     8      |      4      |      4      |protected u.s.
+     8      |      4      |      4      |distributing project
+     8      |      4      |      4      |phrase project
+     8      |      4      |      4      |copies project
+     8      |      4      |      4      |copyright holder
+     8      |      4      |      4      |gutenberg-tm trademark
+     8      |      4      |      4      |paragraph 1f3
+     7      |      2      |      5      | don’t hear 
+     7      |      5      |      2      | hard work  
+     7      |      2      |      5      |  good man  
+     7      |      2      |      5      |   la la    
+     7      |      3      |      4      |days nights 
+     7      |      1      |      6      | chapter vi 
+     7      |      6      |      1      | time place 
+     7      |      5      |      2      | d’ye hear  
+     7      |      3      |      4      |night night 
+     7      |      2      |      5      | dark night 
+     7      |      1      |      6      | king queen 
+     7      |      2      |      5      | white head 
+     6      |      3      |      3      |gutenberg ebook
+     6      |      3      |      3      |gutenberg license
+     6      |      3      |      3      |located united
+     6      |      3      |      3      |united check
+     6      |      3      |      3      | check laws 
+     6      |      3      |      3      |laws country
+     6      |      2      |      4      | great deal 
+     6      |      5      |      1      |saturday night
+     6      |      2      |      4      |  sat bed   
+     6      |      5      |      1      | god’s sake 
+     6      |      2      |      4      | laid hand  
+     6      |      4      |      2      | feet high  
+     6      |      1      |      5      | long long  
+     6      |      2      |      4      |hand shoulder
+     6      |      5      |      1      | great god  
+     6      |      3      |      3      |brought bear
+     6      |      1      |      5      |business business
+     6      |      3      |      3      |o’clock morning
+     6      |      1      |      5      |shadows night
+     6      |      1      |      5      |nearer nearer
+     6      |      2      |      4      | days days  
+     6      |      2      |      4      |  day day   
+     6      |      2      |      4      | time long  
+     6      |      1      |      5      |  time sir  
+     6      |      1      |      5      |worse useless
+     6      |      3      |      3      |copying distributing
+     6      |      3      |      3      |trademark license
+     6      |      3      |      3      |derivative works
+     6      |      3      |      3      |free distribution
+     6      |      3      |      3      |work phrase 
+     6      |      3      |      3      |comply terms
+     6      |      3      |      3      |access project
+     6      |      3      |      3      |person entity
+     6      |      3      |      3      |set paragraph
+     6      |      3      |      3      |works freely
+     6      |      3      |      3      |work project
